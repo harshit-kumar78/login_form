@@ -1,0 +1,62 @@
+*{
+  padding:0px;
+  margin:0px
+}
+body{
+  font-family: 'Baloo Tamma 2', cursive;
+  background-color:#6dd5ed;
+}
+.login-id{
+  background-color: white;
+  width:350px;
+  height:300px;
+  margin:auto;
+  margin-top:300px;
+  transform:scale3d(1,1,1);
+  z-index: +1;
+
+}
+.first-input input{
+  width:80%;
+  heigth:100%;
+  padding:5px;
+  margin-top:10px;
+  margin-bottom:25px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+.second-input input{
+  width:80%;
+  heigth:100%;
+  padding:5px;
+  margin-top:10px;
+  margin-bottom:35px;
+  margin-left: 20px;
+  margin-right:20px;
+}
+.login-id h1{
+  padding-left: 30%;
+  color:
+}
+button{
+  width:83%;
+  margin-left:20px;
+  height:30px;
+  background-color:green;
+  color:white;
+  rdius:
+
+}
+button:hover{
+  background-color: white;
+  color:black;
+}
+.login-id p{
+  padding-left:40px;
+  font-size: 15px;
+  margin-top:8px;
+
+}
+.login-id a:hover{
+  color:black;
+}
